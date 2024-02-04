@@ -11,7 +11,7 @@ body {
 .title{
     text-align: center;
     background-color:#F885C2;
-    padding: 1px;
+    padding: 10px;
 }
 .container{
     display: flex;
