@@ -12,6 +12,7 @@ body {
     text-align: center;
     background-color:#F885C2;
     padding: 10px;
+    margin:5px
 }
 .container{
     display: flex;
